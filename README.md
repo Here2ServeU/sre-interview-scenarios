@@ -1,4 +1,4 @@
-# 🔥 25 SRE Interview Case Scenarios with STAR Approach
+# 25 SRE Interview Case Scenarios with STAR Approach
 
 ### **1. High CPU Utilization on a Production Server**
 **Situation:** A critical production server is experiencing high CPU utilization, leading to slow response times.
