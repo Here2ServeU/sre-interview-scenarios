@@ -133,7 +133,7 @@
 **Result:** Website downtime reduced from **2 hours to under 5 minutes**.
 
 ---
-### **10️⃣ SSL Certificate Expiry**
+### **10. SSL Certificate Expiry**
 **Situation:** A production API stopped working because an SSL certificate expired unexpectedly.
 
 **Task:** Renew the SSL certificate and prevent future occurrences.
@@ -147,7 +147,7 @@
 
 ---
 
-### **11️⃣ Disk Space Full on Database**
+### **11. Disk Space Full on Database**
 **Situation:** A production database crashed due to a lack of disk space.
 
 **Task:** Free up space and prevent similar issues in the future.
@@ -161,7 +161,7 @@
 
 ---
 
-### **12️⃣ Log Flooding Impacting Performance**
+### **12. Log Flooding Impacting Performance**
 **Situation:** A backend service was experiencing high CPU and memory usage due to excessive logging.
 
 **Task:** Optimize logging to reduce resource consumption.
@@ -175,7 +175,7 @@
 
 ---
 
-### **13️⃣ Helm Deployment Failure**
+### **13. Helm Deployment Failure**
 **Situation:** A Helm release failed, preventing a microservice from deploying.
 
 **Task:** Troubleshoot and resolve the deployment issue.
@@ -189,7 +189,7 @@
 
 ---
 
-### **14️⃣ Unexpected Traffic Spike**
+### **14. Unexpected Traffic Spike**
 **Situation:** A sudden increase in traffic caused performance degradation.
 
 **Task:** Scale the system to handle the increased load.
@@ -203,7 +203,7 @@
 
 ---
 
-### **15️⃣ Data Corruption in RDS**
+### **15. Data Corruption in RDS**
 **Situation:** A database table became corrupted due to a failed migration.
 
 **Task:** Restore the database while minimizing downtime.
@@ -217,7 +217,7 @@
 
 ---
 
-### **16️⃣ Cloud Cost Overages**
+### **16. Cloud Cost Overages**
 **Situation:** Monthly cloud bills exceeded the allocated budget.
 
 **Task:** Reduce cloud costs while maintaining performance.
@@ -231,7 +231,7 @@
 
 ---
 
-### **17️⃣ Incident Response Failure**
+### **17. Incident Response Failure**
 **Situation:** A production outage took too long to diagnose and resolve.
 
 **Task:** Improve the incident response process.
@@ -245,7 +245,7 @@
 
 ---
 
-### **18️⃣ Single Point of Failure Risk**
+### **18. Single Point of Failure Risk**
 **Situation:** A critical service was running without redundancy.
 
 **Task:** Introduce high availability and failover mechanisms.
@@ -259,7 +259,7 @@
 
 ---
 
-### **19️⃣ Slow CI/CD Pipelines**
+### **19. Slow CI/CD Pipelines**
 **Situation:** CI/CD deployments were taking too long, delaying releases.
 
 **Task:** Optimize the pipeline to reduce build times.
@@ -273,7 +273,7 @@
 
 ---
 
-### **20️⃣ Microservices Network Latency**
+### **20. Microservices Network Latency**
 **Situation:** Inter-service communication was slow, degrading performance.
 
 **Task:** Improve microservices networking.
@@ -287,7 +287,7 @@
 
 ---
 
-### **21️⃣ RBAC Misconfiguration**
+### **21. RBAC Misconfiguration**
 **Situation:** Developers had excessive permissions, posing a security risk.
 
 **Task:** Implement proper role-based access control (RBAC).
@@ -301,7 +301,7 @@
 
 ---
 
-### **22️⃣ Unpatched Security Vulnerabilities**
+### **22. Unpatched Security Vulnerabilities**
 **Situation:** A security scan revealed multiple unpatched vulnerabilities.
 
 **Task:** Patch the vulnerabilities and improve security processes.
@@ -315,7 +315,7 @@
 
 ---
 
-### **23️⃣ Excessive Storage Costs in S3**
+### **23. Excessive Storage Costs in S3**
 **Situation:** S3 storage costs were unexpectedly high.
 
 **Task:** Reduce storage costs without losing data.
@@ -329,7 +329,7 @@
 
 ---
 
-### **24️⃣ Zombie Processes Consuming Resources**
+### **24. Zombie Processes Consuming Resources**
 **Situation:** A server had multiple zombie processes consuming CPU and memory.
 
 **Task:** Identify and remove zombie processes.
@@ -343,7 +343,7 @@
 
 ---
 
-### **25️⃣ Delayed Outage Detection**
+### **25. Delayed Outage Detection**
 **Situation:** System outages were not detected in time.
 
 **Task:** Improve monitoring and alerting.
@@ -357,9 +357,7 @@
 
 ---
 
-### **🚀 Final Thoughts**
-These **real-world SRE scenarios** demonstrate how to handle incidents, optimize reliability, and enhance security. Let me know if you need more advanced cases! 🚀
-
-Each of the remaining cases is expanded with a full STAR response, detailing the **Situation, Task, Action, and Result** for each scenario.
+### **Final Thoughts**
+These **real-world SRE scenarios** demonstrate how to handle incidents, optimize reliability, and enhance security. Each of the remaining cases is expanded with a full STAR response, detailing the **Situation, Task, Action, and Result** for each scenario.
 
 ---
